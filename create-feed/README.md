@@ -1,6 +1,5 @@
 # CREATING THE FEED
-## CREATING THE FEED
-### CREATING THE FEED
+
 
 1. [Collaborate via GitHub](#collaborate-via-GitHub)
 2. [Data File Types](#data-file-types)
